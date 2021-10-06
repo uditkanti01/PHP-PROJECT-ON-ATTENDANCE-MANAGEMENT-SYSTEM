@@ -11,7 +11,7 @@ include('db.php');
         </h2>
         
         <div class="panel panel-body">
-            b  
+            
                 <table class="table table-striped">
                     <tr>
                     <th>Serial Number</th> <th>Dates</th> <th>Show Attendance</th>
