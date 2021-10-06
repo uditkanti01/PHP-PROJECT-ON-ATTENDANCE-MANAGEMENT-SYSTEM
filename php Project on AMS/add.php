@@ -15,7 +15,7 @@ include("db.php");
 ?>
 <div class="panel panel-default">
     <?php if ($flag){?>
-    <div class="alert alert-success"><strong>!!success</strong> attendance recorded successfully ...!!
+    <div class="alert alert-success"><strong>!!Success</strong> Data added successfully ...!!
     </div>
     <?php } ?>
     <div class="panel-heading">
