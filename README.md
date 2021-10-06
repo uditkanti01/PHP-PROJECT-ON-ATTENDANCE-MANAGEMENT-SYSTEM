@@ -1,4 +1,7 @@
 # PHP-PROJECT-ON-ATTENDANCE-MANAGEMENT-SYSTEM
+Team Members:
+Uditkanti Jena - 190010116016
+Tej Patel - 190010116043
 ![image](https://user-images.githubusercontent.com/69725460/136191039-9582dfcc-23cb-4ff9-8b32-ba04d238a06c.png)
 ![image](https://user-images.githubusercontent.com/69725460/136191136-c3d1f88d-ef00-4ca5-b939-93eb2842644a.png)
 ![image](https://user-images.githubusercontent.com/69725460/136191170-d5b21e10-42ec-401d-ae92-cbf5b4280a5a.png)
